@@ -4,7 +4,7 @@ exports.up = function(knex, Promise) {
       table.varchar('type')
       table.varchar('name')
       table.varchar('description')
-      table.integer('price')
+      table.text('price')
       table.varchar('address')
       table.varchar('details')
       table.varchar('note')

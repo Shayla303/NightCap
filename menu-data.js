@@ -99,19 +99,99 @@ picture:'https://www.google.com/search?q=spaghetti&source=lnms&tbm=isch&sa=X&ved
   type:'Sides',
   name:'Mac A Roni Toni',
   description:'Our take on a comfort food favorite made with 6 different cheese and love',
-  price: '$2.50',
+  price: '$3.00',
   picture:'https://www.google.com/search?biw=1440&bih=739&tbm=isch&sa=1&ei=ipBrWr_COoiKtQX0uL6gDg&q=pictures+of+baked+macaroni+and+cheese&oq=pictures+of+macaroni&gs_l=psy-ab.1.4.0l4j0i8i30k1l3j0i24k1l2.139076.144058.0.145953.8.7.0.1.1.0.93.512.7.7.0....0...1c.1.64.psy-ab..0.8.515....0.VuswyklMBxo#imgrc=SF4a66Z8eHSNvM'
 },
 {
   type:'Sides',
   name:'College Greens',
   description:'Fresh collard greens simmered in a bath of turkey meat and special stuff',
-  price: '$2.50',
+  price: '$3.00',
   picture:'https://www.google.com/search?biw=1440&bih=739&tbm=isch&sa=1&ei=HZFrWv2vKsXYtQXI6I3YBA&q=pictures+of+collard+greens&oq=pictures+of+collard&gs_l=psy-ab.1.0.0l3j0i30k1.192412.193402.0.195281.7.7.0.0.0.0.146.629.5j2.7.0....0...1c.1.64.psy-ab..0.7.627...0i67k1.0.oIPWxiLS7BU#imgrc=yKVHVxz_62R5aM'
 },
-
-
-
-
-
-}
+{
+  type:'Sides',
+  name:'Cabbage Patch',
+  description:'Fresh cabbage pan fried with the finest pork accompaniments',
+  price: '$3.00',
+  picture:'https://www.google.com/search?tbm=isch&q=pictures+of+fried+cabbage&chips=q:pictures+of+cooked+cabbage,g_4:southern,online_chips:soul&sa=X&ved=0ahUKEwj9l_Klv_bYAhULKKwKHXmvBfMQ4lYILCgD&biw=1440&bih=739&dpr=2#imgrc=urNyxGk4GCC4bM'
+},
+{
+  type:'Sides',
+  name:'Koleslaw',
+  description:'Fresh cabbage and carrots shredded to perfection in a creamy sauce',
+  price: '$2.50',
+  picture: 'https://www.google.com/search?tbm=isch&q=pictures+of+coleslaw+salad&chips=q:pictures+of+coleslaw+salad,g_1:southern&sa=X&ved=0ahUKEwjDgJ-dwPbYAhUFS60KHVjnDpkQ4lYIKCgA&biw=1440&bih=739&dpr=2#imgrc=scJzWss-3l_W-M'
+},
+{
+  type:'Sides',
+  name:' Fried Sweet Corn',
+  description:'Kernels of sweet corn fried in flour,butter and a lil seasoning',
+  price: '$3.00',
+  note:'This dish is usually prepared using bacon it can be made without'
+  picture:'https://www.google.com/search?tbm=isch&q=pictures+of+cooked+corn&chips=q:pictures+of+cooked+corn,g_1:fried&sa=X&ved=0ahUKEwiNkeHewPbYAhUGMawKHYRzCr8Q4lYIKCgA&biw=1440&bih=739&dpr=2#imgrc=PcicXW3XVO6ZrM'
+},
+{
+  type:'Sides',
+  name:'Bootsy\'s Broccoli Casserole',
+  description:'Broccoli, cheese, rice,breadcrums mixed and baked til firm and fab',
+  price: '$3.00',
+  picture:'https://www.google.com/search?nfpr=1&tbm=isch&q=pictures+of+cooked+broccoli+casserole&chips=q:pictures+of+cooked+broccoli+casserole,online_chips:broccoli+rice&sa=X&ved=0ahUKEwjRhZiJwvbYAhUJY6wKHVRJDKgQ4lYIMCgI&biw=1440&bih=739&dpr=2#imgrc=JpF5OuJ8-QJF1M'
+},
+{
+  type:'Sides',
+  name:'Mookie Does Mashed Taters',
+  description:'Potatoes whipped to perfection using a lethal combo of cream and butter',
+  price: '$3.00',
+  note:'Can be served with a side of brown gravy, just Ask',
+  picture:'https://www.google.com/search?biw=1440&bih=739&tbm=isch&sa=1&ei=EpZrWovvKoXAtQXJzpzQBw&q=pictures+of+cooked+mashed+potatoes&oq=pictures+of+cooked+mashed+potatoes&gs_l=psy-ab.3...134787.139747.0.139882.33.31.0.0.0.0.195.2653.22j8.30.0....0...1c.1.64.psy-ab..11.6.483...0j0i8i30k1j0i24k1.0.4susdIt5SlE#imgrc=3AfUqmQv3maz5M'
+},
+{
+  type:'Sides',
+  name:'Granny\'s Green Beans',
+  description:'Green beans simmered slow with bacon and potato pieces',
+  price: '$3.00',
+  picture:'https://www.google.com/search?biw=1440&bih=739&tbm=isch&sa=1&ei=7ZZrWqK6Dcj0swWVirzACA&q=pictures+of+southern+cooked+green+beans&oq=pictures+of+southern+cooked+green+beans&gs_l=psy-ab.3...3378.5443.0.5631.16.16.0.0.0.0.178.1387.7j7.14.0....0...1c.1.64.psy-ab..5.0.0....0.AJ9mWARHbdk#imgrc=7aYQIaLTr1nxDM'
+},
+{
+  type:'Desserts',
+  name:'Sweet Potato Pie',
+  price: '$2.50',
+  picture:'https://www.google.com/search?tbm=isch&q=sweet+potato+pie&chips=q:sweet+potato+pie,g_2:soul+food&sa=X&ved=0ahUKEwj42dLHxPbYAhUJKawKHciWAcEQ4lYIKygB&biw=1440&bih=739&dpr=2#imgdii=l2T_4kWj27T3kM:&imgrc=bHkifc0mNfe31M'
+},
+{
+  type:'Desserts',
+  name:'Vanilla Cream Cheese Pound Cake',
+  price: '$2.50',
+  picture:'https://www.google.com/search?biw=1440&bih=739&tbm=isch&sa=1&ei=nZhrWom7MNLYtQXH6aLICQ&q=pound+cake&oq=pound+cake&gs_l=psy-ab.3..0l10.85918.87396.0.87532.10.7.0.3.3.0.97.563.7.7.0....0...1c.1.64.psy-ab..0.10.571...0i67k1.0.O594AyGJrZM#imgrc=R91ofX-yOTxoLM'
+},
+{
+  type:'Desserts',
+  name:'AuntAnna Banana Pudding',
+  price: '$2.50',
+  picture:'https://www.google.com/search?biw=1440&bih=739&tbm=isch&sa=1&ei=9phrWtWDCcqisAWwo7OYDQ&q=banana+pudding+&oq=banana+pudding+&gs_l=psy-ab.3..0l10.185409.190471.0.190646.15.10.0.5.5.0.135.771.9j1.10.0....0...1c.1.64.psy-ab..0.15.790...0i67k1j0i10i67k1.0.Obf0DQboFfc#imgrc=4NTB1RgoUzhrEM'
+},
+{
+  type:'Desserts',
+  name:'Pam\'s Peach Cobbler',
+  price: '$2.50',
+  picture:'https://www.google.com/search?tbm=isch&q=peach+cobbler&chips=q:peach+cobbler,g_4:homemade&sa=X&ved=0ahUKEwjIzLWRxvbYAhVSRqwKHWsOCzAQ4lYILigA&biw=1440&bih=739&dpr=2#imgdii=bpYe90mAXw1n7M:&imgrc=AzqPzUWvBl_OBM'
+},
+{
+  type:'Drinks',
+  name:'Sweet Tea',
+  price:'$1.50',
+  details:'one size'
+},
+{
+  type:'Drinks',
+  name:'Lemonade',
+  price:'$1.50',
+  details:'one size'
+},
+type:'Water',
+name:'Lemonade',
+price:'$1.50',
+details:'Bottles Only'
+},
+]

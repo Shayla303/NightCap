@@ -10,5 +10,5 @@ app.use(express.static('public'))
 app.use('/api', routes)
 
 app.listen(port, (req, res) => {
-  console.log(port, 'listeninggggg')
+  console.log(port, 'you gone eat your cornbread')
 })

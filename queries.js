@@ -1,5 +1,8 @@
 const db = require('./connection')
 
+function getItems() {
+  return db ('menu').select();
+}
 
 
 
@@ -8,6 +11,6 @@ const db = require('./connection')
 
 
 
-
-
-module.exports = 
+module.exports = {
+  getItems,
+}
